@@ -1,6 +1,2 @@
-flask
-yt-dlp
-moviepy
-numpy
-torch
-openai-whisper
+celery
+redis
